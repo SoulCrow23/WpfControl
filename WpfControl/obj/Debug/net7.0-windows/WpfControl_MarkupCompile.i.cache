@@ -9,12 +9,12 @@ WpfControl
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\lawre\source\repos\WpfControl\WpfControl\App.xaml
-11407045341
 
-5-1365601970
+2-297805793
+
+5-1725077858
 198-759771931
-MainWindow.xaml;
+MainWindow.xaml;View\App.xaml;
 
 False
 
